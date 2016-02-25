@@ -1,0 +1,28 @@
+name: Dedetizadora Brasília
+favicon: null
+layout_spectrum: 0.6089667342603207
+typography_spectrum: 0.7619273189920932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.681215998949483
+  lightness: 0.024508957052603364
+  saturation: 0.9810585838276893
+  rhythmicContrast: 0.7076072350610048
+purpose: []
